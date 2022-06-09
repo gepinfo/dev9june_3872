@@ -1,0 +1,7 @@
+{
+  "name": "dev9june",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
